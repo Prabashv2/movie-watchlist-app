@@ -1,0 +1,11 @@
+# node packages
+node_modules/
+
+# environment variables and secrets
+.env
+
+# logs
+*.log
+
+# macOS system files
+.DS_Store
